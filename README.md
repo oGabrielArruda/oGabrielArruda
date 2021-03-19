@@ -21,7 +21,7 @@
  <a href="https://www.instagram.com/gabriel_arruda77/" target="blank">
   <img align="center" alt="Gabriels's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://twitter.com/gabrielarrruda_" target="blank">
+ <a href="https://twitter.com/" target="blank">
   <img align="center" alt="Gabriel's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
   <br/>
